@@ -1,0 +1,13 @@
+- HashSet
+- TreeSet
+- LinkedHashSet
+
+* Não garante ordem de inserção
+* Não permite itens repetidos
+* Permite a adição e remoção normalmente. Não possui busca por item ou 
+atualização. Para leitura, apenas navegação.
+* Não permite mudança de ordenação
+
+HashSet - Não é ordenado e não permite valores repetidos.
+LinkedHashSet - Mantem a ordem de inserção dos elementos.
+TreeSet - Mantem a ordem e pode ser reordenado.
